@@ -23,13 +23,13 @@ I4 = I6 = I - I5
 V = V4 + V6 = V5  
 <img src="../img/parallel.PNG" width="320px">
 
-### 問題1
+##### 問題1
 VDD=5[v]  
-1. R7とR8の合成抵抗値?
-1. R7とR8とR9の合成抵抗値?
-1. R7の電流値
-1. R8の電流値
-1. R9の電流値
+1. R7とR8の合成抵抗値は?
+1. R7とR8とR9の合成抵抗値は?
+1. R7の電流値は?
+1. R8の電流値は?
+1. R9の電流値は?
 
 <img src="../img/problem1.PNG" width="320px">
 
@@ -37,19 +37,19 @@ VDD=5[v]
 その回路部品が消費する電力量  
 消費電力 E[w] = V * A  
 
-### 問題2
+##### 問題2
 1. 問題7の消費電力[w]
 
 ### ダイオード　　
 ダイオードの特性　　
 - 順方向バイアス
-  - Anode => Kathodeの方向へ電流を流す
+  - Anode → Kathodeの方向へ電流を流す
   - 流れ始める電圧を順方向電圧
   - 電圧降下はほぼ0(抵抗値0)
 - 逆方向バイアス
-  - Kathode => Anodeへの電流が流れるのを抑える
+  - Kathode → Anodeへの電流が流れるのを抑える
   - 逆方向に与える電圧が一定値を超えると壊れる(降伏電圧)
-  - この特性を使用した回路部品をツェナーダイオード　　
+  - この特性を使用した回路部品をツェナーダイオードという　　
 
 <img src="../img/diode.PNG" width="320px">  
 Reference:https://hegtel.com/diode-clipper-circuit.html  
@@ -57,18 +57,18 @@ Reference:https://hegtel.com/diode-clipper-circuit.html
 ### LED  
 ダイオードの一種の仲間
 - 順電圧
-  - Anode => Kathodeの方向へ電流を流す
+  - Anode → Kathodeの方向へ電流を流す
   - 電圧降下が生じる(順電圧)
     - 消費エネルギーが生じ、その分のエネルギーが光エネルギーに変換
 - 逆電
-  - Kathode => Anodeの方向へ電流が流れるのを抑える
+  - Kathode → Anodeの方向へ電流が流れるのを抑える
   - 逆方向に与える電圧が一定値を超えると壊れる(逆電圧)
 
 ### 問題3
 VDD=5[v]  
-LEDの順電圧1.5[V]  
-1. R10の電圧降下量  
-1. LEDの順電流  
+LEDの順電圧1.5[V]のとき
+1. R10の電圧降下量は？
+2. LEDの順電流は？
 
 <img src="../img/problem2.PNG" width="320px">  
 
