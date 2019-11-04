@@ -1,2 +1,4 @@
 # Training
-Documents of Training
+技術教育用の資料です。
+
+誤字脱字は勝手に編集してください。
