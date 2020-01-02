@@ -5,6 +5,10 @@
 ## envi
 Mbed LPC1768とかいうマイコンボードとWeb版コンパイラを使うことを想定しています。(オフライン向けチュウトリアルは準備中)
 https://os.mbed.com/platforms/mbed-LPC1768/
+
+令和も2年となり、常時接続が当たり前の時代になりつつありますが、ちゃんとオフラインで使えるMbed CLIというツールが用意されています。環境構築の方法はは以下のYouTubeに上がっている動画(公式が制作)を見るとよいかと思います。
+
+https://www.youtube.com/watch?v=cM0dFoTuU14&feature=emb_title
 ## memo
 意見はSlackの#p_trainingにでも投げてください。
 誤字脱字は見つけ次第勝手に編集してください。
